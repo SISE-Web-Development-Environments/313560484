@@ -9,3 +9,4 @@ you can skip parts of the website by pressing the relevant botton in the tool ba
 You can Contact me by mail in the buttom of the page, you can write an email and add an emoji by copy it to tghe text area.
 By clicking submit, the mail app in your device will open and you can send your message straight to my personal mail.
 By clicking clear, it will clear all the information you wrote.
+https://sise-web-development-environments.github.io/assignment1-chenshor/
