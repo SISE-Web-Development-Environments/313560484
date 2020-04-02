@@ -8,11 +8,11 @@
 	dis */
 	font-family: cursive;
 	list-style-type: none;
-	color: aliceblue;
+	color: rgb(223, 155, 206);
 	font-style: italic;
 	margin: 12;
 	padding: 24;
-	background-color: #458ec9;
+	background-color: #ddb42b;
 	position: fixed; /* Make it stick, even on scroll */
 	overflow: auto;
 	display: flex;
